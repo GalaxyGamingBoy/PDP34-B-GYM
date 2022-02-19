@@ -1,4 +1,4 @@
-/* USER: 34pdpmitsios
+/* USER: [REDACTED]
 LANG: C++
 TASK: crazyhotel */
 #include <iostream>
